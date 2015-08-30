@@ -1,0 +1,15 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\211.227.151.183\mos\install\|\\211.227.151.183\mos\install4\|\\211.227.151.183\mos\install3\|\\211.227.151.183\mos\setup\|C:\APM_Setup\htdocs\setup\</PublishUrlHistory>
+    <InstallUrlHistory>http://selab.sunchon.ac.kr/pub/ketri/2010/mos/install/|http://selab.sunchon.ac.kr/pub/ketri/2010/mos/install4/|http://selab.sunchon.ac.kr/pub/ketri/2010/mos/install3/|http://selab.sunchon.ac.kr/pub/ketri/2010/mos/setup/|http://selab.sunchon.ac.kr/pub/mos/setup/</InstallUrlHistory>
+    <SupportUrlHistory>http://www.academysoft.kr</SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>ko-KR</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
